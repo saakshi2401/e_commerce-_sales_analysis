@@ -1,0 +1,6 @@
+payment_method,no_of_orders,total_revenue
+UPI,753,153683.69
+"Credit Card",751,154682.93
+"Debit Card",727,152478.99
+"Net Banking",711,145828.37
+"Cash on Delivery",688,144322.50
